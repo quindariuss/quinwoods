@@ -1,7 +1,7 @@
 - 👋 Hi, I’m quindarius
-- 👀 I’m interested in computer systems 
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on operating systems 
+- 👀 I’m interested in backend systems
+- 🌱 I’m currently learning elixir
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me quinwoodz@gmail.com
 
 <!---
